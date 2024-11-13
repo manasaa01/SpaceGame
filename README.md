@@ -6,4 +6,4 @@
 
 <h2>🚀 Demo</h2>
 
-[https://manasaa01.github.io/Space\_game/space.html]((https://manasaa01.github.io/SpaceGame/space.html))
+[https://manasaa01.github.io/SpaceGame/space.html](https://manasaa01.github.io/SpaceGame/space.html)
